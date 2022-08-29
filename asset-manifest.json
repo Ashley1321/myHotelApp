@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ashley1321/myHotelApp.git/static/css/main.32d3b032.css",
-    "main.js": "/Ashley1321/myHotelApp.git/static/js/main.5a415d89.js",
-    "static/js/787.6dc132df.chunk.js": "/Ashley1321/myHotelApp.git/static/js/787.6dc132df.chunk.js",
-    "index.html": "/Ashley1321/myHotelApp.git/index.html",
-    "main.32d3b032.css.map": "/Ashley1321/myHotelApp.git/static/css/main.32d3b032.css.map",
-    "main.5a415d89.js.map": "/Ashley1321/myHotelApp.git/static/js/main.5a415d89.js.map",
-    "787.6dc132df.chunk.js.map": "/Ashley1321/myHotelApp.git/static/js/787.6dc132df.chunk.js.map"
+    "main.css": "/myHotelApp/static/css/main.32d3b032.css",
+    "main.js": "/myHotelApp/static/js/main.8947d2cf.js",
+    "static/js/787.6dc132df.chunk.js": "/myHotelApp/static/js/787.6dc132df.chunk.js",
+    "index.html": "/myHotelApp/index.html",
+    "main.32d3b032.css.map": "/myHotelApp/static/css/main.32d3b032.css.map",
+    "main.8947d2cf.js.map": "/myHotelApp/static/js/main.8947d2cf.js.map",
+    "787.6dc132df.chunk.js.map": "/myHotelApp/static/js/787.6dc132df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32d3b032.css",
-    "static/js/main.5a415d89.js"
+    "static/js/main.8947d2cf.js"
   ]
 }
