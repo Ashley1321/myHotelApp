@@ -1,0 +1,79 @@
+.signUpMainDiv{
+    position: relative;
+    width: 100%;
+    height: 970px;
+    opacity: 1.0;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(248, 248, 248, 0.2) 100%), linear-gradient(180deg, #000000 0%, #FFFFFF 100%), linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(237, 228, 228, 0) 100%), linear-gradient(180deg, #000000 0%, #FFFFFF 100%);
+    }
+.frame{
+    position: absolute;
+    width: 789.18px;
+    height: 548px;
+    left: 30%;
+    top: 200px;
+    background: linear-gradient(180deg, #000000 0%, #FEFAFA 100%);
+    opacity: 0.9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px; 
+}
+.signUpHeading {
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 53px;
+    align-items: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 53px;
+    color:#FEFEFE;
+    border: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.textbox{
+    margin-bottom: 20px;
+    width: 362px;
+    height: 34px;
+    margin-left: 200px;
+    background: linear-gradient(180deg, #000000 10%, #FEFEFE 100%);
+    border: 1px solid #FCFCFC;
+    border-radius: 5px;
+    color: black;
+}
+::placeholder{
+  text-align: center;
+  font-family:'Calibri';
+}
+button{
+    box-sizing: border-box;
+    position: absolute;
+    width: 362px;
+    height: 37px;
+    margin-left: 200px;
+    margin-top: 5px;
+    background: linear-gradient(180deg, #000000 0%, rgba(14, 14, 14, 0) 100%);
+    border: 1px solid #FBFBFB;
+    border-radius: 5px;
+}
+.textboxx{
+    margin-bottom: 40px;
+    justify-items: center;
+    width: 362px;
+    height: 34px;
+    margin-left: 200px;
+    background: linear-gradient(180deg, #000000 10%, #FEFEFE 100%);
+    border: 1px solid #FCFCFC;
+    border-radius: 5px;
+    color: black;
+
+}
+ 
+.passSpan{
+    position: absolute;
+    left: 200px;
+    top: 370px;
+}
+.signInSpan{
+    position: absolute;
+    left: 200px;
+    top: 420px;
+}

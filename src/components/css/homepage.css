@@ -1,0 +1,191 @@
+.MainDiv {
+    position: relative;
+    border: 1px solid #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 1000px;
+    opacity: 1.0;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(248, 248, 248, 0.2) 100%), linear-gradient(180deg, #000000 0%, #FFFFFF 100%), linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(237, 228, 228, 0) 100%), linear-gradient(180deg, #000000 0%, #FFFFFF 100%);
+}
+.Header{
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.picture1{
+    position: absolute;
+    width: 397px;
+    height: 238px;
+    left: 155px;
+    top: 180px;
+    mix-blend-mode: normal;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.picture2{
+    position: absolute;
+    width: 397px;
+    height: 238px;
+    left: 755px;
+    top: 180px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.picture3{
+    position: absolute;
+    width: 397px;
+    height: 238px;
+    left: 1355px;
+    top: 180px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.picture4{
+    position: absolute;
+    width: 397px;
+    height: 238px;
+    left: 155px;
+    top: 497px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.picture5{
+    position: absolute;
+    width: 397px;
+    height: 238px;
+    left: 755px;
+    top: 491px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.picture6{
+    position: absolute;
+    width: 397px;
+    height: 238px;
+    left: 1355px;
+    top: 497px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.footer {
+    position: absolute;
+    width: 1600px;
+    height: 153px;
+    left: 155px;
+    top: 802px;
+    background: linear-gradient(180deg, #FFFFFF 0%, #000000 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+.contact{
+    margin-top: 10px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: black;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.whatsapp{
+    width: 40px;
+    height: 40px;
+    margin-left: 240px;
+    margin-top: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.facebook{
+    width: 40px;
+    height: 40px;
+    margin-left: 300px;
+    margin-top: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.twitter{
+    width: 40px;
+    height: 40px;
+    margin-left: 350px;
+    margin-top: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.instagram{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-left: 350px;
+    margin-top: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.h5Whatsapp{
+    position: absolute;
+    margin-left: 170px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.h5Facebook{
+    position: absolute;
+    margin-left: 500px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    
+}
+.h5Twitter{
+    position: absolute;
+    margin-left: 900px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+.h5Instagram{
+    position: absolute;
+    margin-left: 1290px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+   
+}
+.subDiv{
+    position: absolute;
+    width: 1600px;
+    height: 34px;
+    left: 155px;
+    top: 80px;
+    background: linear-gradient(180deg, #000000 0%, rgba(249, 249, 249, 0) 100%);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    opacity: 9;
+}
+.link1{
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 500px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.link2{
+    margin-top: 7px;
+    position: absolute;
+    margin-left: 775px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.link3{
+    margin-top: 7px;
+    position: absolute;
+    margin-left: 1000px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
